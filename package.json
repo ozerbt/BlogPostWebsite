@@ -1,0 +1,22 @@
+{
+  "name": "blogpostwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozerbt/BlogPostWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozerbt/BlogPostWebsite/issues"
+  },
+  "homepage": "https://github.com/ozerbt/BlogPostWebsite#readme",
+  "dependencies": {
+    "firebase": "^9.8.1"
+  }
+}
