@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ozerbt/BlogPostWebsite#readme",
   "dependencies": {
-    "firebase": "^9.8.1"
+    "express": "^4.18.1",
+    "firebase": "^9.8.1",
+    "nodemon": "^2.0.16"
   }
 }
